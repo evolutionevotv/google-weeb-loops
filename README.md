@@ -12,3 +12,7 @@ To use these styles in your web browser, use a browser extension called "Stylus"
 After downloading the following extension, go to google.com and then click on the Stylus extension icon.
 You'll see a popup, click on "Write style for google.com" and paste in the CSS of your choice from the repository.
 Hit "Save" and you're done.
+# Credits
+Credits to PausePlay for all of this.
+[PausePlay's Twitter](https://twitter.com/pauseplayed/)
+[PausePlay's Patreon](https://www.patreon.com/pauseplayed)
