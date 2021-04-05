@@ -13,6 +13,6 @@ After downloading the following extension, go to google.com and then click on th
 You'll see a popup, click on "Write style for google.com" and paste in the CSS of your choice from the repository.
 Hit "Save" and you're done.
 # Credits
-Credits to PausePlay for all of this.</br>
+Credits to PausePlay/Polsche for all of this.</br>
 [PausePlay's Twitter](https://twitter.com/pauseplayed/)</br>
 [PausePlay's Patreon](https://www.patreon.com/pauseplayed)
